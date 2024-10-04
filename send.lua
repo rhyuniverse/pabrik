@@ -1,4 +1,8 @@
-local DropDelay = 100 -- Drop Delay 
+local BotWorld = "RHYFAA9555" -- World Pabrik 
+local BotMaker = "6382rhy7828" -- World Pabrik Path Marker 
+local SaveWorld = "breakunv" -- Save World 
+local SaveMaker = "rhywsrhy" -- Save Path Marker 
+local DropDelay = 100 -- Drop Delay
 local DropBlock = 20 -- Detector Block Where To Drop 
 local BlockID = 880 -- Block ID No Need To Set Seed ID 
 local Length = 40 -- Length Of Platform, U Can Use Dirt Tho 
