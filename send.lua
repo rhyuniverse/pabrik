@@ -7,7 +7,7 @@ local PlaceDelay = 150 -- Place Delay
 local BreakDelay = 200 -- Break Delay 
 local CollectRadius = 5 -- Collect Radius 
 local CollectDelay = 250 -- Collect Delay 
-local DelayStatus = 2 -- set delay send webhook [minutes follow real time]
+local DelayStatus = 1 -- set delay send webhook [minutes follow real time]
 local WebhookUrl = "https://discord.com/api/webhooks/1291787418189434971/_yfbJpUPBEo-Y3Toka987KPvQNpVDakOgH1Qiy52I0zLZPHMVZW3hkea8slyQl9ubJV5" -- set webhook url
 
 local px = math.floor(getLocal().pos.x/32)
