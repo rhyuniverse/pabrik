@@ -160,7 +160,7 @@ function CADrop(ATDrop)
 		end
 		sleep(100)
 	end
-end
+end}
 
 local Main = nil 
 local Plant = nil 
